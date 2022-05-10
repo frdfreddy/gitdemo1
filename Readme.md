@@ -1,3 +1,4 @@
 #First Git Demo
-This is my first GIt learning pratice
-First modification
+This is my Second  GIt learning pratice
+Adding new line
+Editing 
